@@ -25,4 +25,4 @@ steps:
     nexusIqService: 'iq_server'
     applicationId: 'juice-shop'
     stage: 'Operate'
-    scanTargets: '**/*.js, **/*.JSON, **/*.zip, **/*.tar.gz'
+    scanTargets: '**/*.js, **/*.json, **/*.zip, **/*.tar.gz'
